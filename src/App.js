@@ -5,7 +5,7 @@ import { Todos } from "./My Components/Todos";
 import { Footer } from "./My Components/Footer";
 import { AddTodo } from "./My Components/AddTodo";
 
-import React, { useState, useEffect } from 'react';
+import React, { useState,  } from 'react';
 
 
 function App() {
